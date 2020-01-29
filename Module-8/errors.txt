@@ -1,0 +1,12 @@
+Errors I found:
+-Boo the dog Fan Page heading missing H1 tag
+-I fixed the indention of the div class ="col-sm-12" and the <h4> that was out of line.
+-Seperated the about boo div class="panel-body" into <p> tags instead of <h4> tags
+- cleaned up the indentation of the </div> under the wikipedia link to boo's page.
+-added <> around the img class for img class="img-responsive" src="https://img.buzzfeed.com/buzzfeed-static/static/2015-04/21/16/enhanced/webdr05/enhanced-31550-1429646952-7.jpg"
+- moved the button class for the grow/shrink boxes up to the right area.
+Rearranged the box with 3 buttons corresponding to colors
+-fixed the lack of quotes in the logic.js file causing the color Pink to stop working on the buttons.
+- fixed the indentation of the </div>'s under the random boo facts box. 
+- added Li tags to boos list of favorite things. 
+-fixed the indentation under boo's list of favorite things. 
